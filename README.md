@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently pursing BCA from university of Allahabad.<br>Exploring knowledge in the field of android development.  <br>
+Currently i'm pursing BCA from university of Allahabad.<br>Exploring knowledge in the field of android development.  <br>
 
 
 ## 🌐 Socials:
